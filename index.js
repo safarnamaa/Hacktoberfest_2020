@@ -137,7 +137,7 @@ function passwordScore() {
             score++
         }
         if (value.length > 24) {
-            score++
+           score++
         }
     }
     return score;
