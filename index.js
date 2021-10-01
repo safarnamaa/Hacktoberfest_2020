@@ -1,3 +1,4 @@
+// function for generating minimum and maximum value
 function minmax(value, min, max)
 {
     if (value.indexOf('.') > -1)
